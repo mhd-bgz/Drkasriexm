@@ -23,3 +23,7 @@
   <a href="pagecontact.php" class="icon">
     <img src="logo/insta2.png" alt="Instagram">
   </a>
+<a href="pagecontact.php" class="icon">
+    <img src="logo/gmail2.png" alt="Gmail">
+  </a>
+</div>
