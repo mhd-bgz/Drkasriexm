@@ -5,3 +5,5 @@
         <link  type="text/css" rel="stylesheet" href="mystyle.css"/>
 <title>Berry & Bloom </title>
 </head>
+<body class="Home-body">
+   <?php include 'header.html';?>
