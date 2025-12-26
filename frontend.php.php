@@ -32,6 +32,22 @@
 </section>
 
 <section class="assortment">
-    <h2>Assortiment</h2>
+<h2>Assortiment</h2>
 
     <!-- قسم الفراز -->
+    <h3 class="flavor">strawberry</h3>
+    <table class="product">
+      <tr>
+        <td>
+          <div class="image-wrapper">
+            
+            <img src="image/picc1.jfif" class="default" alt="Cheesecake fraise">
+            <img src="image/picc2.jfif" class="hover" alt="Hover cheesecake">
+            
+          </div>
+        </td>
+        <td>  strawberry Cheesecake</td>
+        <td>1500 DA</td>
+        <td>S-CHEESE</td>
+      </tr>
+      <tr>
