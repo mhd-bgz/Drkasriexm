@@ -51,3 +51,24 @@
         <td>S-CHEESE</td>
       </tr>
       <tr>
+        <td>
+          <div class="image-wrapper">
+          
+            <img src="image/picc3.jfif" class="default" alt="Strawberry pancake">
+            <img src="image/picc4.jfif" class="hover" alt="Hover pancake">
+            
+          </div>
+        </td>
+        <td>Strawberry Pancakes</td>
+        <td>900 DA</td>
+        <td>S-PANCAKE</td>
+      </tr>
+      <tr>
+        <td>
+          <div class="image-wrapper">
+          
+            <img src="image/picc5.jfif" class="default" alt="strewberry cupcake">
+            <img src="image/picc6.jfif" class="hover" alt="Hover cupcake">
+            
+          </div>
+        </td>
