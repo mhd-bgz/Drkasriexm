@@ -14,3 +14,12 @@
     <h1>Berry & Bloom</h1><br>
     <p>Fresh, Lovely, and Made with Love </p>
     <div class="social-icons">
+<a href="pagecontact.php" class="icon">
+    <img src="logo/what2.png" alt="WhatsApp">
+  </a>
+  <a href="pagecontact.php" class="icon">
+    <img src="logo/facebook2.png" alt="Facebook">
+  </a>
+  <a href="pagecontact.php" class="icon">
+    <img src="logo/insta2.png" alt="Instagram">
+  </a>
