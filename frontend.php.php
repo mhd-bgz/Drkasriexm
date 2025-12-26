@@ -3,3 +3,5 @@
     <head>
         <meta charset="HTF-8">
         <link  type="text/css" rel="stylesheet" href="mystyle.css"/>
+<title>Berry & Bloom </title>
+</head>
