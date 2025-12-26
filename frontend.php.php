@@ -72,3 +72,24 @@
             
           </div>
         </td>
+        <td>Strawberry Cupcakes</td>
+        <td>1100 DA</td>
+        <td> S-CUPCAKE</td>
+      </tr>
+      <tr>
+        <td>
+          <div class="image-wrapper">
+         
+            <img src="image/picc7.jfif" class="default" alt="strawberry Macarons">
+            <img src="image/picc8.jfif" class="hover" alt="Hover Macarons">
+            
+          </div>
+        </td>
+        <td>  strawberry Macarons</td>
+        <td>1500 DA</td>
+        <td>S-MACARON</td>
+      </tr>
+    </table>
+    <div class="order-btn-wrapper">
+      <a href="pageorder.php" class="order-button">order now</a>
+    </div>
