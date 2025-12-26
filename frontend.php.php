@@ -27,3 +27,11 @@
     <img src="logo/gmail2.png" alt="Gmail">
   </a>
 </div>
+
+    
+</section>
+
+<section class="assortment">
+    <h2>Assortiment</h2>
+
+    <!-- قسم الفراز -->
