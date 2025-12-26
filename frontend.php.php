@@ -1,2 +1,5 @@
-
 <!DOCTYPE html>
+<html lang="english">
+    <head>
+        <meta charset="HTF-8">
+        <link  type="text/css" rel="stylesheet" href="mystyle.css"/>
