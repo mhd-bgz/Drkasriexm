@@ -124,3 +124,9 @@
         <td>C-PANCAKE</td>
       </tr>
     <!-- قسم التوت الأزرق -->
+<h3 class="flavor">Blueberry</h3>
+    <table class="product">
+      <tr>
+        <td>
+          <div class="image-wrapper">
+         
