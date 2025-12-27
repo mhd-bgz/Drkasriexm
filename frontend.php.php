@@ -93,3 +93,33 @@
     <div class="order-btn-wrapper">
       <a href="pageorder.php" class="order-button">order now</a>
     </div>
+
+    <!-- قسم الشوكولا -->
+    <h3 class="flavor">chocolate</h3>
+    <table class="product">
+      <tr>
+        <td>
+          <div class="image-wrapper">
+          
+            <img src="image/choccheesepic1.jfif" class="default" alt="Choco cheesecake">
+            <img src="image/choccheesepic2.jfif" class="hover" alt="Hover cheesecake">
+            
+          </div>
+        </td>
+        <td>Choco cheescake</td>
+        <td>1700 DA</td>
+        <td>C-CHEESECAKE</td>
+      </tr>
+      <tr>
+        <td>
+          <div class="image-wrapper">
+          
+            <img src="image/chocpanpic1.jfif" class="default" alt="Choco pancake">
+            <img src="image/chocpanpic2.jfif" class="hover" alt="Hover pancake">
+            
+          </div>
+        </td>
+        <td>Choco Pancakes</td>
+        <td>1000 DA</td>
+        <td>C-PANCAKE</td>
+      </tr>
