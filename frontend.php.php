@@ -129,4 +129,7 @@
       <tr>
         <td>
           <div class="image-wrapper">
-         
+        
+            <img src="image/pic1.jfif" class="default" alt="Blueberry cheesecake">
+            <img src="image/pic2.jfif" class="hover" alt="Hover cheesecakess">
+             
