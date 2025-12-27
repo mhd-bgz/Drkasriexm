@@ -7,3 +7,21 @@
 </head>
 <body class="contact-body">
 <?php include 'header.html';?>
+
+
+
+ 
+    <h1>Contact Us</h1>
+    <div class="main-content">
+<div class="contact">
+   
+    <div class="contact-item">
+      <img src="logo/gmai.png" alt="Email Icon">
+      <span>Berry&Bloom17@gmail.com</span>
+    </div>
+
+   
+    <div class="contact-item">
+      <img src="logo/face.png" alt="Facebook Icon">
+      <a href="https://www.face.com/Berry&Bloom" target="_blank">Berry&Bloom</a>
+    </div>
