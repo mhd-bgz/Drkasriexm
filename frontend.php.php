@@ -218,3 +218,39 @@ Baking sweets has always been more than a hobby — it's a dream that dances in 
           a place where magic is baked daily, and where my heart finally found its sweetest home.
         </p>
       </td>
+
+      
+      <td style="width: 50%; padding: 20px; vertical-align: top;">
+        <table style="width: 100%;">
+          <tr>
+            <td style="padding-right: 10px;">
+              <img src="image/me.jfif" width="400px" height="500px" style="border-radius: 10px;">
+            </td>
+
+           
+            <td>
+              <table style="width: 100%;">
+                <tr>
+                  <td>
+                    <img src="image/photo2.jfif" width="250px" height="250px" style="border-radius: 8px; margin-bottom: 10px;">
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <img src="image/photo3.jfif" width="250px" height="250px" style="border-radius: 8px;">
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</section>
+
+
+<?php include 'footer.html'; ?>
+
+</body>
+    </html>
