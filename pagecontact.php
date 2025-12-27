@@ -4,3 +4,6 @@
         <meta charset="HTF-8">
         <link  type="text/css" rel="stylesheet" href="mystyle.css"/>
         <title>Berry & Bloom </title>
+</head>
+<body class="contact-body">
+<?php include 'header.html';?>
