@@ -177,3 +177,13 @@
       <td style="width: 50%; padding: 20px; vertical-align: top;">
         <h1>About Me</h1>
         <p>
+Baking sweets has always been more than a hobby — it's a dream that dances in my heart
+          like sugar swirling in warm milk. In every sprinkle of flour and every drop of vanilla,
+          I feel a part of my soul rising, just like dough in the oven.
+          One day, I hoped to open a little bakery where every dessert tells a story,
+          where joy melts on the tongue like chocolate,
+          and where love is folded gently into every layer of cake.
+          And now, that dream lives and breathes in the warmth of my very own bakery —
+          a place where magic is baked daily, and where my heart finally found its sweetest home.
+        </p>
+      </td>
