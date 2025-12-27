@@ -173,3 +173,7 @@
 <section class="Me">
   <table class="main-table">
     <tr>
+<!-- "About me" -->
+      <td style="width: 50%; padding: 20px; vertical-align: top;">
+        <h1>About Me</h1>
+        <p>
