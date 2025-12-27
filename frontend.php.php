@@ -123,6 +123,37 @@
         <td>1000 DA</td>
         <td>C-PANCAKE</td>
       </tr>
+      <tr>
+        <td>
+          <div class="image-wrapper">
+          
+            <img src="image/choccuppic1.jfif" class="default" alt="Choco cupcake">
+            <img src="image/choccuppic2.jfif" class="hover" alt="Hover cupcake">
+            
+          </div>
+        </td>
+        <td>Choco Cupcakes</td>
+        <td>1200 DA</td>
+        <td>C-CUPCAKE</td>
+      </tr>
+      <tr>
+        <td>
+          <div class="image-wrapper">
+          
+            <img src="image/chocmacpic1.jfif" class="default" alt="Macarons">
+            <img src="image/chocmacpic2.jfif" class="hover" alt="Hover Macarons">
+            
+          </div>
+        </td>
+        <td> choco Macarons</td>
+        <td>1500 DA</td>
+        <td>C-MACARON</td>
+      </tr>
+    </table>
+    <div class="order-btn-wrapper">
+      <a href="pageorder.php" class="order-button">order now</a>
+    </div>
+        
     <!-- قسم التوت الأزرق -->
 <h3 class="flavor">Blueberry</h3>
     <table class="product">
