@@ -1,2 +1,11 @@
 html {
   scroll-behavior: smooth;
+}
+/*tfasil home--------------------------------------------------------------------------------*/
+.Home-body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #fdfdfd;
+    color: #131211;
+    /*hna tkhlas--------------------------------------------------------------------------------------*/
+}
