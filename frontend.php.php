@@ -133,3 +133,43 @@
             <img src="image/pic1.jfif" class="default" alt="Blueberry cheesecake">
             <img src="image/pic2.jfif" class="hover" alt="Hover cheesecakess">
              
+          </div>
+        </td>
+        <td>Blueberry cheesecake</td>
+        <td>1600 DA</td>
+        <td>B-CHESSECAKE</td>
+      </tr>
+      <tr>
+        <td>
+          <div class="image-wrapper">
+          
+            <img src="image/BlueberryPancakesmain.jfif" class="default" alt="Blueberry puncake">
+            <img src="image/bleuberrypancakehover.jfif" class="hover" alt="Hover puncake">
+            
+          </div>
+        </td>
+        <td>Blueberry Pancakes</td>
+        <td>950 DA</td>
+        <td>B-PANCAKE</td>
+      </tr>
+      <tr>
+        <td>
+          <div class="image-wrapper">
+               <img src="image/Blueberrymacaronsmain.jfif" class="default" alt="Cheesecake blueberry">
+            <img src="image/Blueberrymacaronshover.jfif" class="hover" alt="Hover cheesecake">
+         
+          </div>
+        </td>
+        <td> Blueberry Macarons</td>
+        <td>1500 DA</td>
+        <td>B-MACARON</td>
+      </tr>
+    </table>
+    <div class="order-btn-wrapper">
+      <a href="pageorder.php" class="order-button">order now</a>
+    </div>
+    </section>
+  <!----------------------------meeeeeeeeeeeeeeeeee----------------------->
+<section class="Me">
+  <table class="main-table">
+    <tr>
