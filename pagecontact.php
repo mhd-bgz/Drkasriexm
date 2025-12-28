@@ -25,3 +25,11 @@
       <img src="logo/face.png" alt="Facebook Icon">
       <a href="https://www.face.com/Berry&Bloom" target="_blank">Berry&Bloom</a>
     </div>
+
+    
+    <div class="contact-item">
+      <img src="logo/ins.png" alt="Instagram Icon">
+      <a href="https://www.instagram.com/Berry&Bloom" target="_blank">Berry&Bloom_17</a>
+    </div>
+
+    
