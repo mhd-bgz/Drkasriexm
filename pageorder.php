@@ -18,3 +18,16 @@ if (isset($_POST['submit'])) {
     $phone = $_POST['phone'];
     $email = $_POST['email'];
     $product_id = $_POST['product_id'];
+
+    $sql = "INSERT INTO orders (full_name, phone, email, product_id)
+            VALUES ('$full_name', '$phone', '$email', '$product_id')";
+
+    if ($conn->query($sql) === TRUE) {
+        $message = "Your orders has been submitted successfully!";
+    } else {
+        $message = "Error: " . $conn->error;
+    }
+
+    $conn->close();
+}
+?>
