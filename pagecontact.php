@@ -32,4 +32,12 @@
       <a href="https://www.instagram.com/Berry&Bloom" target="_blank">Berry&Bloom_17</a>
     </div>
 
-    
+    <div class="contact-item">
+      <img src="logo/wha.png" alt="WhatsApp Icon">
+      <span>+213 6 58 25 42 34 </span>
+    </div>
+</div>
+</div>
+
+<?php include 'footer.html'; ?>
+</body>
