@@ -31,3 +31,11 @@ if (isset($_POST['submit'])) {
     $conn->close();
 }
 ?>
+
+<!DOCTYPE html>
+<html lang="english">
+    <head>
+        <meta charset="UTF-8">
+        <link  type="text/css" rel="stylesheet" href="mystyle.css"/>
+        <title>Berry & Bloom </title>
+</head>
