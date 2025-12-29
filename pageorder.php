@@ -39,3 +39,9 @@ if (isset($_POST['submit'])) {
         <link  type="text/css" rel="stylesheet" href="mystyle.css"/>
         <title>Berry & Bloom </title>
 </head>
+
+<body class="order">
+       <?php include 'header.html';?>
+  <div class="cont">
+    <div class="order-box">
+        <h2 class="h2-class">Place Your Order</h2>
