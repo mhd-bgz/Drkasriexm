@@ -45,3 +45,18 @@ if (isset($_POST['submit'])) {
   <div class="cont">
     <div class="order-box">
         <h2 class="h2-class">Place Your Order</h2>
+        <form action="pageorder.php" method="POST">
+            <label>Full Name:</label>
+            <input type="text" name="full_name" required>
+
+            <label>Phone:</label>
+            <input type="text" name="phone" required>
+
+            <label>Email:</label>
+            <input type="email" name="email" required>
+
+            <label>Product ID:</label>
+            <input type="text" name="product_id" required>
+
+            <input type="submit" name="submit" value="Submit Order">
+        </form>
