@@ -60,3 +60,13 @@ if (isset($_POST['submit'])) {
 
             <input type="submit" name="submit" value="Submit Order">
         </form>
+
+        <?php if ($message): ?>
+            <div class="message"><?php echo $message; ?></div>
+        <?php endif; ?>
+    </div>
+  </div>  
+    <?php include 'footer.html'; ?>
+</body>
+
+</html>
