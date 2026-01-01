@@ -292,3 +292,74 @@ margin-top: 20px;
   
    
 }
+.order {
+          font-family: 'PlayfairDisplay';
+            background-image: url('image/Birthday\ cake.jfif');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            
+        }
+        .cont {
+          flex: 1;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          padding: 40px 0;
+      }
+        .order-box {
+            background-color: #fff;
+            padding: 30px 40px;
+            border-radius: 15px;
+            box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+            width: 400px;
+        }
+
+        .h2-class {
+            text-align: center;
+            color: #03062e;
+            margin-bottom: 25px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 6px;
+            font-weight: bold;
+            color: #444;
+        }
+
+        input[type="text"], input[type="email"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+        }
+
+        input[type="submit"] {
+            background-color: #020141;
+            color: white;
+            border: none;
+            padding: 12px;
+            width: 100%;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor:pointer;
+            transition: background 0.3s ease;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #1a2299;
+        }
+
+        .message {
+            text-align: center;
+            margin-top: 20px;
+            color: rgb(7, 6, 65);
+            font-weight: bold;
+        }
+    
