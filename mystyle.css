@@ -207,6 +207,86 @@ margin-top: 20px;
   background-color: #03182b;
 }
 /*hna ykhlas----------------------------------------------------------------------------------------------------------------------*/
+/*contact page hadi whdha----------------------------------------------------------------------------------------------------*/
+    .contact-body{
+      margin: 0;
+      font-family: 'JosefinSans';
+      /*font-family: 'PlayfairDisplay',cursive;*/
+      background-image: url('image/bc7.jpg');
+      background-repeat: no-repeat;
+      background-size:cover;
+      background-position: center;
+      color: #010007;
+  }
+    
+    h1 {
+      text-align: center;
+      margin-bottom:70px;
+      margin-top: 100px;
+      color: #00000f;
+      font-family: 'PlayfairDisplay';
+    }
+    .main-content {
+      flex: 2;
+      padding: 41.7px 40px;
+    }
+    .contact {
+      max-width:450px;
+      margin-top: 200px;
+      margin: auto;
+      background-color: #efefffbd;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(58, 44, 44, 0.1);
+    }
+    /*icon w lktiba ta3ha*/
+
+    .contact-item{
+      display: flex;
+      align-items: center;
+      margin-bottom: 20px;
+      
+    }
+/*3ard icon w tolha wwww*/
+    .contact-item img {
+      width:70px;
+      height:70px;
+      margin-right: 15px;
+    }
+
+    .contact-item a,
+    .contact-item span {
+      font-size: 25px;
+      color: #28263b;
+      text-decoration: none;
+      font-family: 'PlayfairDisplay',cursive;
+    }
+
+    
+    .contact-item a:hover {
+  color: #424242;
+  transform: scale(1.05);
+  transition: all 0.3s ease;
+}
+.contact-item img:hover{
+  transform: scale(1.1);
+}
+    
+  /*hna tkhlas*-------------------------------------------------------------------------------------------------------------------------*/
+
+  @font-face {
+    font-family: 'DancingScript';
+    src: url('font/DancingScript-VariableFont_wght.ttf')format('truetype')
+ }
+ 
+ @font-face {
+  font-family: 'PlayfairDisplay';
+  src: url('font/PlayfairDisplay-Italic-VariableFont_wght.ttf')format('truetype')
+}
+@font-face {
+  font-family: 'JosefinSans';
+  src: url('font/JosefinSans-VariableFont_wght.ttf')format('truetype')
+}
 
 /*hna ykhlas-------------------------------------------------------------------------------------------------*/
   
