@@ -13,3 +13,4 @@ INSERT INTO `orders` (`id`, `Full_Name`, `Phone`, `Email`, `Product_id`) VALUES
 ALTER TABLE `orders`
   ADD PRIMARY KEY (`id`);
 COMMIT;
+
