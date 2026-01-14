@@ -41,7 +41,7 @@ nav a {
 }/*hna tkhlas-------------------------------------------------------------------------------------------*/
 /*bannnnnnnnnnnnner-----------------------------------------------------------------------------------------------*/
 .banner {
-    background-image: url('image/section1.jfif');
+    background-image: url('image/section1.jpg');
     background-size:1100px; 
     background-position: center;
     background-repeat:repeat-x;
@@ -114,7 +114,7 @@ margin-top: 20px;
 /*body ta3 section 2*/
  .assortment {
   padding: 20px;
-  background-image: url('image/3.jfif');
+  background-image: url('image/3.jpg');
   background-size: cover;
   
 }
@@ -294,7 +294,7 @@ margin-top: 20px;
 }
 .order {
           font-family: 'PlayfairDisplay';
-            background-image: url('image/Birthday\ cake.jfif');
+            background-image: url('image/Birthday\ cake.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
