@@ -41,8 +41,8 @@
         <td>
           <div class="image-wrapper">
             
-            <img src="image/picc1.jfif" class="default" alt="Cheesecake fraise">
-            <img src="image/picc2.jfif" class="hover" alt="Hover cheesecake">
+            <img src="image/picc1.jpg" class="default" alt="Cheesecake fraise">
+            <img src="image/picc2.jpg" class="hover" alt="Hover cheesecake">
             
           </div>
         </td>
@@ -54,8 +54,8 @@
         <td>
           <div class="image-wrapper">
           
-            <img src="image/picc3.jfif" class="default" alt="Strawberry pancake">
-            <img src="image/picc4.jfif" class="hover" alt="Hover pancake">
+            <img src="image/picc3.jpg" class="default" alt="Strawberry pancake">
+            <img src="image/picc4.jpg" class="hover" alt="Hover pancake">
             
           </div>
         </td>
@@ -80,8 +80,8 @@
         <td>
           <div class="image-wrapper">
          
-            <img src="image/picc7.jfif" class="default" alt="strawberry Macarons">
-            <img src="image/picc8.jfif" class="hover" alt="Hover Macarons">
+            <img src="image/picc7.jpg" class="default" alt="strawberry Macarons">
+            <img src="image/picc8.jpg" class="hover" alt="Hover Macarons">
             
           </div>
         </td>
@@ -101,8 +101,8 @@
         <td>
           <div class="image-wrapper">
           
-            <img src="image/choccheesepic1.jfif" class="default" alt="Choco cheesecake">
-            <img src="image/choccheesepic2.jfif" class="hover" alt="Hover cheesecake">
+            <img src="image/choccheesepic1.jpg" class="default" alt="Choco cheesecake">
+            <img src="image/choccheesepic2.jpg" class="hover" alt="Hover cheesecake">
             
           </div>
         </td>
@@ -114,8 +114,8 @@
         <td>
           <div class="image-wrapper">
           
-            <img src="image/chocpanpic1.jfif" class="default" alt="Choco pancake">
-            <img src="image/chocpanpic2.jfif" class="hover" alt="Hover pancake">
+            <img src="image/chocpanpic1.jpg" class="default" alt="Choco pancake">
+            <img src="image/chocpanpic2.jpg" class="hover" alt="Hover pancake">
             
           </div>
         </td>
@@ -127,8 +127,8 @@
         <td>
           <div class="image-wrapper">
           
-            <img src="image/choccuppic1.jfif" class="default" alt="Choco cupcake">
-            <img src="image/choccuppic2.jfif" class="hover" alt="Hover cupcake">
+            <img src="image/choccuppic1.jpg" class="default" alt="Choco cupcake">
+            <img src="image/choccuppic2.jpg" class="hover" alt="Hover cupcake">
             
           </div>
         </td>
@@ -140,8 +140,8 @@
         <td>
           <div class="image-wrapper">
           
-            <img src="image/chocmacpic1.jfif" class="default" alt="Macarons">
-            <img src="image/chocmacpic2.jfif" class="hover" alt="Hover Macarons">
+            <img src="image/chocmacpic1.jpg" class="default" alt="Macarons">
+            <img src="image/chocmacpic2.jpg" class="hover" alt="Hover Macarons">
             
           </div>
         </td>
@@ -161,8 +161,8 @@
         <td>
           <div class="image-wrapper">
         
-            <img src="image/pic1.jfif" class="default" alt="Blueberry cheesecake">
-            <img src="image/pic2.jfif" class="hover" alt="Hover cheesecakess">
+            <img src="image/pic1.jpg" class="default" alt="Blueberry cheesecake">
+            <img src="image/pic2.jpg" class="hover" alt="Hover cheesecakess">
              
           </div>
         </td>
@@ -174,8 +174,8 @@
         <td>
           <div class="image-wrapper">
           
-            <img src="image/BlueberryPancakesmain.jfif" class="default" alt="Blueberry puncake">
-            <img src="image/bleuberrypancakehover.jfif" class="hover" alt="Hover puncake">
+            <img src="image/BlueberryPancakesmain.jpg" class="default" alt="Blueberry puncake">
+            <img src="image/bleuberrypancakehover.jpg" class="hover" alt="Hover puncake">
             
           </div>
         </td>
@@ -186,8 +186,8 @@
       <tr>
         <td>
           <div class="image-wrapper">
-               <img src="image/Blueberrymacaronsmain.jfif" class="default" alt="Cheesecake blueberry">
-            <img src="image/Blueberrymacaronshover.jfif" class="hover" alt="Hover cheesecake">
+               <img src="image/Blueberrymacaronsmain.jpg" class="default" alt="Cheesecake blueberry">
+            <img src="image/Blueberrymacaronshover.jpg" class="hover" alt="Hover cheesecake">
          
           </div>
         </td>
@@ -224,7 +224,7 @@ Baking sweets has always been more than a hobby — it's a dream that dances in 
         <table style="width: 100%;">
           <tr>
             <td style="padding-right: 10px;">
-              <img src="image/me.jfif" width="400px" height="500px" style="border-radius: 10px;">
+              <img src="image/me.jpg" width="400px" height="500px" style="border-radius: 10px;">
             </td>
 
            
@@ -232,12 +232,12 @@ Baking sweets has always been more than a hobby — it's a dream that dances in 
               <table style="width: 100%;">
                 <tr>
                   <td>
-                    <img src="image/photo2.jfif" width="250px" height="250px" style="border-radius: 8px; margin-bottom: 10px;">
+                    <img src="image/photo2.jpg" width="250px" height="250px" style="border-radius: 8px; margin-bottom: 10px;">
                   </td>
                 </tr>
                 <tr>
                   <td>
-                    <img src="image/photo3.jfif" width="250px" height="250px" style="border-radius: 8px;">
+                    <img src="image/photo3.jpg" width="250px" height="250px" style="border-radius: 8px;">
                   </td>
                 </tr>
               </table>
